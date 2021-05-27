@@ -1,0 +1,36 @@
+{
+  "name": "sql-dummy-data",
+  "version": "0.0.1",
+  "description": "Genrates SQL Data",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build"
+  },
+  "keywords": [
+    "sql",
+    "dummy",
+    "data",
+    "sqldummydata",
+    "generator",
+    "sqldata"
+  ],
+  "author": "kandarp_sharda",
+  "license": "MIT",
+  "dependencies": {
+    "uid": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkgod1kandarp/sqlDummyData.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darkgod1kandarp/sqlDummyData/issues"
+  },
+  "homepage": "https://github.com/darkgod1kandarp/sqlDummyData#readme"
+}

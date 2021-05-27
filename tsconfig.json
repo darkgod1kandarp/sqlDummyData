@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "outDir": "dist",
+    "declaration": true,
+    "strict": true
+  },
+  "include": ["*", "index.ts"],
+  "exclude": ["node-modules", "dist"]
+}
